@@ -92,6 +92,18 @@ I'm **Feliks Gabriel**, an Informatics student at **Universitas Bina Sarana Info
 [![](https://img.shields.io/github/followers/Gabriel-Tol?label=GitHub%20Followers)](https://github.com/Gabriel-Tol)
 
 ---
+<img data-importer="snake" src="https://raw.githubusercontent.com/Gabriel-Tol/Gabriel-Tol/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Tol/Gabriel-Tol/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Tol/Gabriel-Tol/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriel-Tol/Gabriel-Tol/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:002b4d&height=100&section=footer" width="100%" alt="Footer Banner" />
